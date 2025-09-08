@@ -129,19 +129,3 @@ The obvious limitation of the project is that it only focuses on the road markin
 
 The code project still has a lot of room for improvement. Feel free to discuss it with me!
 
-## Acknowledgement
-RoadLib is developed by [GREAT](http://igmas.users.sgg.whu.edu.cn/group) (GNSS+ REsearch, Application and Teaching) Group, School of Geodesy and Geomatics, Wuhan University. 
-
-<br/>
-<div align=center>
-<img alt="" src="./assets/GREAT.png" width='300px' />
-</div>
-<br/>
-<div align=center>
-<img alt="" src="./assets/whu.png" width='300px' />
-</div>
-<br/>
-
-We use the [camodocal](https://github.com/hengli/camodocal) project to handle camera models, while we modify it to a minimal version which doesn't need Ceres.
-
-The codebase and documentation is licensed under the [GNU General Public License v3 (GPL-3)](https://www.gnu.org/licenses/gpl-3.0.txt).
