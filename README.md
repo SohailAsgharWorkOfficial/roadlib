@@ -70,7 +70,7 @@ Notice that this is just a toy model due to the limited training set. You may tr
 
 ### 1. Mapping example
 
-Download the test dataset we collected in Wuhan City [here](https://whueducn-my.sharepoint.com/:u:/g/personal/2015301610143_whu_edu_cn/EVow179FE29GhRfXTnR3NEIBS2dutK0VAmMPvsNdEsc5LA?e=XFq9a9).
+Download the test dataset we collected [here](https://whueducn-my.sharepoint.com/:u:/g/personal/2015301610143_whu_edu_cn/EVow179FE29GhRfXTnR3NEIBS2dutK0VAmMPvsNdEsc5LA?e=XFq9a9).
 
 To run the mapping example, follow the command below
 
