@@ -23,12 +23,7 @@ I have made practical modifications to the original version and hope this can se
 * High-precision poses always required ➡️ Local mapping + geo-registering
 
 * And so on...
-
-## Update log
-- [x] Code Upload (**deadline**: 2024/06)
-- [x] Mapping Example (**deadline**: 2024/06)
-- [x] Localization Example (**deadline**: 2024/06)
-- [ ] More Examples 
+   
 
 ## Installation
 
