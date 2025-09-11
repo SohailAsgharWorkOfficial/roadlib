@@ -11,7 +11,7 @@ This is a enhanced version of our work "Visual Mapping and Localization System B
 </div>
 <br>
 
-I have made practical modifications to the original version and hope this can serve as a reference for related research. A video preview is available [here]([https://youtu.be/O_iMLVITBjg)]) .
+I have made practical modifications to the original version and hope this can serve as a reference for related research. A video preview is available [here]([https://youtu.be/O_iMLVITBjg]) .
 
 
 ## What is new? (compared to the original paper)
